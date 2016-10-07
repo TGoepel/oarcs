@@ -10,13 +10,13 @@ OArCS contains a comprehensive collection of over 370 terms tied to over 290 con
 Relation to other ontologies
 ----------------------------
 
-OArCS uses [CARO][1] as its upper level ontology. Ultimately it will serve as a domain component of a broader Arthropod Anatomy Ontology [AAO].  This integration will occur through either through [UBERON][1] or a similar pattern derived specifically for the AAO.
+OArCS uses [CARO][1] as its upper level ontology. Ultimately it will serve as a domain component of a broader Arthropod Anatomy Ontology [AAO]. This integration will occur through either through [UBERON][1] or a similar pattern derived specifically for the AAO.
 
 
 Acknowledgements
 ----------------
 
-OArCS was built by Christian Wirkner, his lab and collaborators including Göpel Torben, Runge Jens, Keiler Jonas, Huckstorf K., Scholz Stefan, Klussmann-Fricke B-J, and Richter Stefan.
+OArCS was built by Christian S. Wirkner, his lab and collaborators including Torben Göpel, Jens Runge, Jonas Keiler, Katarina Huckstorf, Stephan Scholz, Bastian-Jesper Klussmann-Fricke, and Stefan Richter.
 
 István Mikó formalized taxon specific exemplars. 
 Matt Yoder provided technical support and helped describe the initial effort.
@@ -25,7 +25,7 @@ Matt Yoder provided technical support and helped describe the initial effort.
 Contact
 -------
 
-Christian Wirkner is the project lead.
+Christian S. Wirkner is the project lead.
 
 License
 -------
